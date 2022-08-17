@@ -17,6 +17,7 @@ This will help me maintian a high quality, up to date main branch</body>
 -Generated files like dist filders
 -Dependencies which can be downlaoded from a package manager
 
-I will manage this by Placing the .gitignore file in the rootfolder of the repository</body>
-<h6>hh </h6>
-<body>hh </body>
+ I will manage this by Placing the .gitignore file in the rootfolder of the repository</body>
+
+<h6>Here I explain the storage of credentials and sensitive information </h6>
+<body>The best way that I can think of protecting and storing sensitive information and credentials is adding a SECURITY.md file that highlights security related information for the projects this semester </body>
